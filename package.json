@@ -1,0 +1,13 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "A simple CMS-style blog site built with MVC architecture, utilizing Handlebars.js for Views, Sequelize for ORM, and express-session for authentication",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
